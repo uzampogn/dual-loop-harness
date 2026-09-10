@@ -1,0 +1,6 @@
+{
+  "name": "dual-loop",
+  "description": "Dual-loop harness: a human-led design loop and an autonomous build loop for Claude Code",
+  "version": "1.0.0",
+  "author": {"name": "Ulysse Zampogna"}
+}

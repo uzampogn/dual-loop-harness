@@ -1,0 +1,14 @@
+{
+  "name": "dual-loop-harness",
+  "owner": {
+    "name": "Ulysse Zampogna"
+  },
+  "description": "Dual-loop harness for Claude Code: a human-led design loop and an autonomous build loop",
+  "plugins": [
+    {
+      "name": "dual-loop",
+      "source": "./",
+      "description": "Dual-loop harness: design loop + autonomous build loop"
+    }
+  ]
+}
